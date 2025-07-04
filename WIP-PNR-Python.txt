@@ -1,0 +1,41 @@
+
+Meeting link - https://meet.google.com/ynt-mihi-grd
+
+Installing Python --> >3.11
+Installing Anaconda --> Latest available software
+
+
+Launching Jupyter Notebook --> 
+1. Open Anaconda Navigator --> 'Lanch' Jupyer Notebook
+2. Open Anaconda Prompt --> Type 'jupyter notebook' --> Enter
+3. Open VS Code --> Open the file --> 'Select Kernel' --> choose 'base' --> Run cells
+
+With Jupyer Notebook:
+Once 'Jupyter Notebook' is ready, it will be launched in Browser
+Select the folder (In C drive)
+Create ' Notebook' --> Select Default Kernel
+
+To Run --> Shift + Enter
+
+From Edit mode to Command Mode --> Ctrl + M
+Command mode to Edit mode --> Enter
+
+New cell --> Command mode + A   |   Command mode + B
+Delete cell --> Command mode + D + D
+
+
+.ipynb --> Jupyter notebook --> To open: Jupyter Notebook | Jupyter Lab | VS Code | GitHub 
+.py --> python file
+
+
+--- Markdown  & Code
+
+
+
+GitHub | Google Collaborator 
+
+
+
+07-04-2025 - Python Data Types and Operators
+
+
