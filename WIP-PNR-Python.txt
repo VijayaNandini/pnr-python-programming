@@ -1,13 +1,13 @@
 
 Meeting link - https://meet.google.com/ynt-mihi-grd
 
-Installing Python --> >3.11
+Installing Python --> >=3.11
 Installing Anaconda --> Latest available software
 
 
 Launching Jupyter Notebook --> 
-1. Open Anaconda Navigator --> 'Lanch' Jupyer Notebook
-2. Open Anaconda Prompt --> Type 'jupyter notebook' --> Enter
+1. Open Anaconda Navigator --> 'Lanch' Jupyer Notebook --> Will open in browser
+2. Open Anaconda Prompt --> Type 'jupyter notebook' --> Enter --> Will open in browser 
 3. Open VS Code --> Open the file --> 'Select Kernel' --> choose 'base' --> Run cells
 
 With Jupyer Notebook:
@@ -16,6 +16,7 @@ Select the folder (In C drive)
 Create ' Notebook' --> Select Default Kernel
 
 To Run --> Shift + Enter
+To run and stay in same cell --> Ctrl + Enter
 
 From Edit mode to Command Mode --> Ctrl + M
 Command mode to Edit mode --> Enter
@@ -37,5 +38,10 @@ GitHub | Google Collaborator
 
 
 07-04-2025 - Python Data Types and Operators
+07-06-2025 - Recap Python data types and operators - Bhargi
+
+
+
+
 
 
